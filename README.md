@@ -1,4 +1,4 @@
-# Hello, I'm Gleb Tishkevich! 👋
+# Hello, I'm Hleb Tishkevich! 👋
 
 ## Java Developer
 
