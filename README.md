@@ -1,12 +1,13 @@
-# Привет, я Глеб Тишкевич! 👋
+# Hello, I'm Gleb Tishkevich! 👋
 
 ## Java Developer
 
-### О себе
+### About me
 
-Более 2-х лет занимаюсь разработкой на Java. За это время участвовал в создании и поддержке различных проектов, начиная от разработки ботов для коммерческих целей и заканчивая работой в крупной компании, которая насчитывает более 1000 сотрудников ([Taxcom.ru](https://taxcom.ru/)).
+I have been developing in Java for more than 2 years. During this time, I participated in the creation and support of various projects, ranging from the development of bots for commercial purposes to work in a large company that has more than 1000 employees ([Taxcom.ru](https://taxcom.ru/)).
 
 - 📧 Email: [gleb.qb@gmail.com](mailto:gleb.qb@gmail.com)
+
 - 📱 Telegram: [@Bublinoid](https://t.me/Bublinoid)
 
-Буду рад сотрудничать с вами! По любым вопросам связывайтесь со мной, и мы обязательно договоримся о личной встрече или собеседовании.
+I will be glad to cooperate with you! If you have any questions, please contact me, and we will definitely arrange a personal meeting or interview.
