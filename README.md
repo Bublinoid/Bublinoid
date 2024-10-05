@@ -10,4 +10,4 @@ I have been developing in Java for more than 2 years. During this time, I partic
 
 - 📱 Telegram: [@Bublinoid](https://t.me/Bublinoid)
 
-I will be glad to cooperate with you! If you have any questions, please contact me, and we will definitely arrange a personal meeting or interview.
+I will be glad to cooperate with you! If you have any questions, please contact me, and we will definitely arrange a personal meeting or interview.🙂
